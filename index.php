@@ -1,4 +1,12 @@
-<?php
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+    <meta charset="UTF-8">
+    <title>kuchu</title>
+</head>
+
+<body bgcolor="aqua">
+
 /**
  * Created by PhpStorm.
  * User: USER
@@ -13,4 +21,5 @@
 <input type="submit" name="button" value="登入" />&nbsp;&nbsp;
 <a href="register.php">申請帳號</a>
 </form>
-?>
+</body>
+</html>
