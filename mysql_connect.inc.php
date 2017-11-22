@@ -9,13 +9,17 @@
 
 //資料庫設定
 //資料庫位置
-$db_server = "localhost";
+$db_server = "http://120.108.117.245";
+
 //資料庫名稱
-$db_name = "mydb";
+$db_name = "105021033";
+
 //資料庫管理者帳號
-$db_user = "root";
+$db_user = "105021033";
+
 //資料庫管理者密碼
-$db_passwd = "1234";
+$db_passwd = "7PbTWpIN";
+
 //對資料庫連線
 if(!@mysql_connect($db_server, $db_user, $db_passwd))
     die("無法對資料庫連線");
